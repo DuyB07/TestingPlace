@@ -1,6 +1,6 @@
 #ifndef NGUOITHUE_H
 #define NGUOITHUE_H
-#include<string>
+#include <string>
 #include "User.h"
 
 class Customer : public User{

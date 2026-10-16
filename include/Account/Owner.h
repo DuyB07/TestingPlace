@@ -1,6 +1,6 @@
 #ifndef OWNER_H
 #define OWNER_H
-#include<string>
+#include <string>
 #include "User.h"
 using namespace std;
 
